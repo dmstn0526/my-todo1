@@ -1,8 +1,6 @@
 <template>
   <div id="app">
-    <todo-main
-    :todos="todos"
-    ></todo-main>
+    <todo-main></todo-main>
   </div>
 </template>
 
